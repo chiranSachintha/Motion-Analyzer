@@ -1,4 +1,4 @@
-# Capacitive Force Sensor
+# Motion Analyzer 
 
 The main objective of this project is to analyse the gait force and identify the various defects which can happen due to unproper walking patterns. we identify the relationship between the capacitance and the force, convert this variation in to a voltage and create software which can visualize live plots using MATLAB software. In this product two sensors attached to the heal and the foot. this product can also be used for posture tracking also.
 
